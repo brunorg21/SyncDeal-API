@@ -1,0 +1,6 @@
+@SyncDeal.Api_HostAddress = http://localhost:5244
+
+GET {{SyncDeal.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
