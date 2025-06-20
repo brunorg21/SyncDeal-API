@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\projetos\\SyncDeal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|src{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|D:\\projetos\\SyncDeal\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|src{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{08AFBE72-8EA9-4C6F-AA59-B0251BE0CEBB}|src\\SyncDeal.Exceptions\\SyncDeal.Exceptions.csproj|d:\\projetos\\syncdeal\\src\\syncdeal.exceptions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08AFBE72-8EA9-4C6F-AA59-B0251BE0CEBB}|src\\SyncDeal.Exceptions\\SyncDeal.Exceptions.csproj|solutionrelative:src\\syncdeal.exceptions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\projetos\\SyncDeal\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\projetos\\SyncDeal\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-20T15:04:08.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\projetos\\SyncDeal\\src\\SyncDeal.Exceptions\\Class1.cs",
               "RelativeDocumentMoniker": "src\\SyncDeal.Exceptions\\Class1.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\projetos\\SyncDeal\\src\\SyncDeal.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "src\\SyncDeal.Domain\\Class1.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "src\\SyncDeal.Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T14:49:38.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T14:49:38.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\projetos\\SyncDeal\\src\\SyncDeal.Infra\\Class1.cs",
               "RelativeDocumentMoniker": "src\\SyncDeal.Infra\\Class1.cs",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "src\\SyncDeal.Infra\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T14:49:15.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T14:49:15.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\projetos\\SyncDeal\\src\\SyncDeal.Application\\Class1.cs",
               "RelativeDocumentMoniker": "src\\SyncDeal.Application\\Class1.cs",
@@ -85,12 +100,11 @@
               "RelativeToolTip": "src\\SyncDeal.Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T14:48:55.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T14:48:55.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\projetos\\SyncDeal\\src\\SyncDeal.Communication\\Class1.cs",
               "RelativeDocumentMoniker": "src\\SyncDeal.Communication\\Class1.cs",
@@ -98,12 +112,11 @@
               "RelativeToolTip": "src\\SyncDeal.Communication\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T14:48:30.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T14:48:30.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\projetos\\SyncDeal\\src\\SyncDeal.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\SyncDeal.Api\\Program.cs",
@@ -111,8 +124,7 @@
               "RelativeToolTip": "src\\SyncDeal.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T14:47:01.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T14:47:01.235Z"
             }
           ]
         }
