@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyncDeal.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5672bce60b427f3b1b32203c847f0b762d0cbaef")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyncDeal.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyncDeal.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

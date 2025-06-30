@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyncDeal.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b69981ee9119f8acbbf408110b5285308106d65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5672bce60b427f3b1b32203c847f0b762d0cbaef")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyncDeal.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyncDeal.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

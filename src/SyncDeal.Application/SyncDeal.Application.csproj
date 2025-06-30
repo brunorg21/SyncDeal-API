@@ -7,6 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
+    <PackageReference Include="FluentValidation" Version="12.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\SyncDeal.Communication\SyncDeal.Communication.csproj" />
     <ProjectReference Include="..\SyncDeal.Domain\SyncDeal.Domain.csproj" />
     <ProjectReference Include="..\SyncDeal.Exceptions\SyncDeal.Exceptions.csproj" />
